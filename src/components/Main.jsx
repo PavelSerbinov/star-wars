@@ -2,7 +2,7 @@ import React from 'react';
 import main from "../assets/main.jpg";
 import HeroSection from "./HeroSection.jsx";
 import DreamTeamSection from "./DreamTeamSection.jsx";
-import BasicText from "../constant/BasicText.jsx";
+import BasicText from "./BasicText.jsx";
 
 const Main = () => {
     return (
